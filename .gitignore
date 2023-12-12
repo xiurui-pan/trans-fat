@@ -9,3 +9,6 @@ v++*
 *.log
 .ipcache/
 .run/
+builds/
+host_fpga*
+host_all
